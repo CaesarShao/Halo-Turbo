@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_multicast_clent_socket"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.ethanco.sample.MulticastClientActivity">
+
+        <ScrollView
+            android:id="@+id/scroll_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="10dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/tv_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </ScrollView>
+
+        <Button
+            android:id="@+id/btn_start_server"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="start server" />
+
+        <Button
+            android:id="@+id/btn_stop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="stop" />
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CaesarDemo-Halo-Turbo.iml" filepath="$PROJECT_DIR$/.idea/modules/CaesarDemo-Halo-Turbo.iml" group="Halo-Turbo" />
+      <module fileurl="file://$PROJECT_DIR$/Halo-Turbo.iml" filepath="$PROJECT_DIR$/Halo-Turbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Halo-Turbo-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Halo-Turbo-sample.iml" group="Halo-Turbo/sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/halo-turbo/com.github.EthanCo-halo-turbo.iml" filepath="$PROJECT_DIR$/.idea/modules/halo-turbo/com.github.EthanCo-halo-turbo.iml" group="Halo-Turbo/halo-turbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/halo-turbo-mina/com.github.EthanCo-halo-turbo-mina.iml" filepath="$PROJECT_DIR$/.idea/modules/halo-turbo-mina/com.github.EthanCo-halo-turbo-mina.iml" group="Halo-Turbo/halo-turbo-mina" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/json-convertor/com.github.EthanCo-json-convertor.iml" filepath="$PROJECT_DIR$/.idea/modules/json-convertor/com.github.EthanCo-json-convertor.iml" group="Halo-Turbo/json-convertor" />
+      <module fileurl="file://$PROJECT_DIR$/halo-turbo/halo-turbo.iml" filepath="$PROJECT_DIR$/halo-turbo/halo-turbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/halo-turbo-mina/halo-turbo-mina.iml" filepath="$PROJECT_DIR$/halo-turbo-mina/halo-turbo-mina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-convertor/json-convertor.iml" filepath="$PROJECT_DIR$/json-convertor/json-convertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

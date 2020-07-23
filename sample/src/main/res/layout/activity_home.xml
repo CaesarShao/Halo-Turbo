@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.ethanco.sample.HomeActivity">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/activity_home"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_mul_client"
+                    style="@style/HomeItemText"
+                    android:text="MUL CLIENT ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mul_server"
+                    style="@style/HomeItemText"
+                    android:text="MUL SERVER ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_client"
+                    style="@style/HomeItemText"
+                    android:text="MINA TCP CLIENT ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_server"
+                    style="@style/HomeItemText"
+                    android:text="MINA TCP SERVER ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_client_byte"
+                    style="@style/HomeItemText"
+                    android:text="MINA TCP CLIENT BYTE ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_server_byte"
+                    style="@style/HomeItemText"
+                    android:text="MINA TCP SERVER BYTE ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_common_tcp_client"
+                    style="@style/HomeItemText"
+                    android:text="COMMON TCP SERVER ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_udp_client"
+                    style="@style/HomeItemText"
+                    android:text="MINA UDP CLIENT ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_udp_server"
+                    style="@style/HomeItemText"
+                    android:text="MINA UDP SERVER ACTIVITY" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_heart_beat_client"
+                    style="@style/HomeItemText"
+                    android:text="MINA CLIENT 心跳" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_mina_tcp_heart_beat_server"
+                    style="@style/HomeItemText"
+                    android:text="MINA SERVER 心跳" />
+
+                <include layout="@layout/include_divider" />
+
+                <TextView
+                    android:id="@+id/tv_udp_client"
+                    style="@style/HomeItemText"
+                    android:text="Udp Client" />
+
+                <include layout="@layout/include_divider" />
+
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+
+
+</layout>

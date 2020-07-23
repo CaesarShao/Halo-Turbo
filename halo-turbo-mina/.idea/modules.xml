@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2146028000/Halo-Turbo.iml" filepath="$PROJECT_DIR$/.idea/modules/2146028000/Halo-Turbo.iml" group="Halo-Turbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1296670500/halo-turbo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1296670500/halo-turbo.iml" group="Halo-Turbo/halo-turbo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/halo-turbo-mina.iml" filepath="$PROJECT_DIR$/.idea/modules/halo-turbo-mina.iml" group="Halo-Turbo/halo-turbo-mina" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-836561856/json-convertor.iml" filepath="$PROJECT_DIR$/.idea/modules/-836561856/json-convertor.iml" group="Halo-Turbo/json-convertor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1455050567/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/-1455050567/sample.iml" group="Halo-Turbo/sample" />
+    </modules>
+  </component>
+</project>
